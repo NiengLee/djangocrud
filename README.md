@@ -1,3 +1,1 @@
-Djagno & postgresql CRUD fazt code youtube
-
-https://www.youtube.com/watch?v=_zNZ1lK6RTA
+this a simple CRUD in django python, using jinja, html and bootstrap.
