@@ -1,0 +1,16 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1711268871457/work
+certifi==2024.6.2
+charset-normalizer==3.3.2
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1715181266597/work = 5.0.6
+greenlet==3.0.3
+idna==3.7
+psycopg==3.1.19
+psycopg2-binary==2.9.9
+requests==2.32.3
+setuptools==70.0.0
+SQLAlchemy==2.0.30
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1715013953229/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717287769032/work
+urllib3==2.2.1
+wheel==0.43.0
+
